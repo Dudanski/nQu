@@ -7,4 +7,4 @@ nQu's central repository
 - public/js/vendor: put all libs here, backbone.js, etc. which not loaded from CDNs. require.js added as a start - AWD loading should perhaps be better implemented via Dojo-Toolkit
 - public/assets: added a quick placeholder, useful for inital testing
 
-ATZE & KALLE waren hier
+
